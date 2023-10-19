@@ -1,2 +1,6 @@
 O Git é um terminal que auxilia no uso do GitHub e versionamento dos códigos.
 Link para download é Git - Downloading Package (git-scm.com).
+Comandos úteis: 	git status 
+			git add .
+			git commit -m “comment”
+			git push origin main 
