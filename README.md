@@ -1,2 +1,2 @@
 # shiny-octo-disco
-Estudo DIO.
+Estudo do curso da DIO sobre Desenvolvimento de Jogos Digitais.
