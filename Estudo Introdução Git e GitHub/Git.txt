@@ -1,0 +1,2 @@
+O Git é um terminal que auxilia no uso do GitHub e versionamento dos códigos.
+Link para download é Git - Downloading Package (git-scm.com).
